@@ -1,19 +1,19 @@
 function wakeDog(dogName, dogBreed) {
-  const activity = `Wake ${dogName} the ${dogBreed}`
+  const activity = `Wake ${dogName} the ${dogBreed}`;
   console.log(activity);
-  return activity
+  return activity;
 }
 
 function leashDog(dogName, dogBreed) {
-  const activity = `Leash ${dogName} the ${dogBreed}`
+  const activity = `Leash ${dogName} the ${dogBreed}`;
   console.log(activity);
-  return activity
+  return activity;
 }
 
 function walkToPark(dogName, dogBreed) {
-  const activity = `Walk to the park with ${dogName} the ${dogBreed}`
+  const activity = `Walk to the park with ${dogName} the ${dogBreed}`;
   console.log(activity);
-  return activity
+  return activity;
 }
 
 function throwFrisbee(dogName, dogBreed) {
