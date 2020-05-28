@@ -5,31 +5,31 @@ function wakeDog(dogName, dogBreed) {
 }
 
 function leashDog(dogName, dogBreed) {
-  const activity =
-  console.log(`Leash ${dogName} the ${dogBreed}`);
+  const activity = `Leash ${dogName} the ${dogBreed}`
+  console.log();
   return activity
 }
 
 function walkToPark(dogName, dogBreed) {
-  const activity =
-  console.log(`Walk to the park with ${dogName} the ${dogBreed}`);
+  const activity = `Walk to the park with ${dogName} the ${dogBreed}`
+  console.log();
   return activity
 }
 
 function throwFrisbee(dogName, dogBreed) {
-  const activity =
-  console.log(`Throw the frisbee for ${dogName} the ${dogBreed}`);
+  const activity = `Throw the frisbee for ${dogName} the ${dogBreed}`
+  console.log();
   return activity
 }
 
 function walkHome(dogName, dogBreed) {
-  const activity =
-  console.log(`Walk home with ${dogName} the ${dogBreed}`);
+  const activity = `Walk home with ${dogName} the ${dogBreed}`
+  console.log();
   return activity
 }
 
 function unleashDog(dogName, dogBreed) {
-  const activity =
-  console.log(`Unleash ${dogName} the ${dogBreed}`);
+  const activity = `Unleash ${dogName} the ${dogBreed}`
+  console.log();
   return activity
 }
