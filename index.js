@@ -34,6 +34,8 @@ function unleashDog(dogName, dogBreed) {
   return activity
 }
 
+const routine = []
+
 function exerciseDog(dogName, dogBreed) {
 
 }
