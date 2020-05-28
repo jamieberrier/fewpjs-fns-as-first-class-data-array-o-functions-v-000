@@ -42,5 +42,6 @@ function exerciseDog(dogName, dogBreed) {
   for (let i = 0; i < routine.length; i++) {
     exerciseRoutine[0] = routine[i](dogName, dogBreed);
   }
+
   return exerciseRoutine;
 }
