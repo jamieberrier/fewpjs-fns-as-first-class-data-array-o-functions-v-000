@@ -17,21 +17,21 @@ function walkToPark(dogName, dogBreed) {
 }
 
 function throwFrisbee(dogName, dogBreed) {
-  const activity = `Throw the frisbee for ${dogName} the ${dogBreed}`
+  const activity = `Throw the frisbee for ${dogName} the ${dogBreed}`;
   console.log(activity);
-  return activity
+  return activity;
 }
 
 function walkHome(dogName, dogBreed) {
-  const activity = `Walk home with ${dogName} the ${dogBreed}`
+  const activity = `Walk home with ${dogName} the ${dogBreed}`;
   console.log(activity);
-  return activity
+  return activity;
 }
 
 function unleashDog(dogName, dogBreed) {
-  const activity = `Unleash ${dogName} the ${dogBreed}`
+  const activity = `Unleash ${dogName} the ${dogBreed}`;
   console.log(activity);
-  return activity
+  return activity;
 }
 
 const routine = [wakeDog, leashDog, walkToPark, throwFrisbee, walkHome, unleashDog];
