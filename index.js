@@ -38,5 +38,6 @@ const routine = [wakeDog, leashDog, walkToPark, throwFrisbee, walkHome, unleashD
 
 function exerciseDog(dogName, dogBreed) {
   for (let age = 30; age < 40; age++) {
+    
   }
 }
