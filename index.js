@@ -34,6 +34,6 @@ function unleashDog(dogName, dogBreed) {
   return activity
 }
 
-function exerciseDog() {
-  
+function exerciseDog(dogName, dogBreed) {
+
 }
